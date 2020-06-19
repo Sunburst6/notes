@@ -4,4 +4,4 @@ function FindProxyForURL(url, host) {
     }
     return 'DIRECT;'
 }
-//晨霜若雪收集于互联网，侵删
+//晨霜若雪收集于互联网，侵删。
